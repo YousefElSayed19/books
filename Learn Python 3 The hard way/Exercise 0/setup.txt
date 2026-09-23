@@ -1,0 +1,3 @@
+check version of python and test in cmd ( in windows)
+and remember you should not use IDLE :DD
+just user ide like ( vsc )
